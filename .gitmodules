@@ -1,0 +1,9 @@
+[submodule "3vilTwinAttacker"]
+	path = 3vilTwinAttacker
+	url = https://github.com/P0cL4bs/3vilTwinAttacker
+[submodule "802.11-data"]
+	path = 802.11-data
+	url = https://github.com/ewa/802.11-data
+[submodule "802.11p-wireless-regdb"]
+	path = 802.11p-wireless-regdb
+	url = https://github.com/CTU-IIG/802.11p-wireless-regdb
